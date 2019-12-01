@@ -1837,6 +1837,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Mathematica
 
+* [An Elementary Introduction to the Wolfram Language](https://www.wolfram.com/language/elementary-introduction/2nd-ed/)
 * [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org)
 * [Stephen Wolfram's The Mathematica Book](http://reference.wolfram.com/legacy/v5_2/)
 * [Vector Math for 3d Computer Graphics](http://chortle.ccsu.edu/VectorLessons/index.html)
